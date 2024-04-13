@@ -30,7 +30,7 @@
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin-top: 1.8vh;
+    margin-top: 8vh;
 }
 
 .social li{
@@ -49,3 +49,11 @@
 .card {
     border: none;
 }
+
+
+@media (max-width: 1200px) {
+    .artigo{
+        margin-left: 5%;
+    }
+    
+  }
